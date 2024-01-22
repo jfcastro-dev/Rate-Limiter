@@ -1,5 +1,5 @@
 services:
   app:
-    image: my-spring-boot-app
+    image: ratelimiter
     ports:
       - "8080:8080"
